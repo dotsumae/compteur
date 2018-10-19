@@ -1,0 +1,10 @@
+Command line:
+   test_cmpt_lent_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58191
+
+Thu Oct 18 10:33:04 2018
+
+
+ Elaboration Time: 0.02 sec

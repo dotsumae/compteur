@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="compteur8.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="compteur.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="compteur.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="compteur.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="compteur.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="compteur.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="compteur.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="compteur.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="compteur.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="compteur.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="compteur.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="compteur_envsettings.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="compteur_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="compteur_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="compteur_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="compteur_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="compteur_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="compteurlent.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="compteurlent.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="compteurlent.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="compteurlent.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="compteurlent.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="compteurlent.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="compteurlent.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="compteurlent.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="compteurlent_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="compteurlent_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="compteurlent_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="compteurlent_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="compteurlent_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="diviseur.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="diviseur.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="diviseur.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="diviseur.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="diviseur.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="diviseur.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="diviseur_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="diviseur_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_cmpt_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_cmpt_lent_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_cmpt_lent_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="test_cmpt_lent_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_cmpt_lent_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_cmpt_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_diviseur_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_diviseur_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1539702770" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1539702770">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539851557" xil_pn:in_ck="-3253248531317642658" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1539851557">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="compteur.vhd"/>
+      <outfile xil_pn:name="compteurlent.vhd"/>
+      <outfile xil_pn:name="diviseur.vhd"/>
+      <outfile xil_pn:name="test_cmpt.vhd"/>
+      <outfile xil_pn:name="test_cmpt_lent.vhd"/>
+      <outfile xil_pn:name="test_diviseur.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1539850674" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7493606844721890139" xil_pn:start_ts="1539850674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539850674" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2387508546635574745" xil_pn:start_ts="1539850674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539849938" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-2477183740493724302" xil_pn:start_ts="1539849938">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539851561" xil_pn:in_ck="-3253248531317642658" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1539851561">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="compteur.vhd"/>
+      <outfile xil_pn:name="compteurlent.vhd"/>
+      <outfile xil_pn:name="diviseur.vhd"/>
+      <outfile xil_pn:name="test_cmpt.vhd"/>
+      <outfile xil_pn:name="test_cmpt_lent.vhd"/>
+      <outfile xil_pn:name="test_diviseur.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1539851564" xil_pn:in_ck="-3253248531317642658" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="1873926874360884182" xil_pn:start_ts="1539851561">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_cmpt_lent_beh.prj"/>
+      <outfile xil_pn:name="test_cmpt_lent_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1539851564" xil_pn:in_ck="-6180297831124288294" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="6641104900247528323" xil_pn:start_ts="1539851564">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_cmpt_lent_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1539702585" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1539702585">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539849974" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="978493222470830275" xil_pn:start_ts="1539849974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539849974" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-2477183740493724302" xil_pn:start_ts="1539849974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539702585" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1539702585">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539849974" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-6189729424147843259" xil_pn:start_ts="1539849974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539702585" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1106364426758808884" xil_pn:start_ts="1539702585">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539849974" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="2329330438400565500" xil_pn:start_ts="1539849974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1539851064" xil_pn:in_ck="-6365083290645765556" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="5320424205177463307" xil_pn:start_ts="1539851056">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="compteur.ngr"/>
+      <outfile xil_pn:name="compteurlent.lso"/>
+      <outfile xil_pn:name="compteurlent.ngc"/>
+      <outfile xil_pn:name="compteurlent.ngr"/>
+      <outfile xil_pn:name="compteurlent.prj"/>
+      <outfile xil_pn:name="compteurlent.stx"/>
+      <outfile xil_pn:name="compteurlent.syr"/>
+      <outfile xil_pn:name="compteurlent.xst"/>
+      <outfile xil_pn:name="compteurlent_stx_beh.prj"/>
+      <outfile xil_pn:name="compteurlent_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1539701143" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-3786931796974559761" xil_pn:start_ts="1539701143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1539844533" xil_pn:in_ck="5178895260681827157" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="1975151395816764594" xil_pn:start_ts="1539844527">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="compteur.bld"/>
+      <outfile xil_pn:name="compteur.ngd"/>
+      <outfile xil_pn:name="compteur_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1539704505" xil_pn:in_ck="5178895260681827158" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="1463976855095865663" xil_pn:start_ts="1539704500">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="compteur_map.map"/>
+      <outfile xil_pn:name="compteur_map.mrp"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,6 @@
+vhdtdtfi -lib work diviseur.vhd -prj compteur8 -o diviseur.spl -module diviseur -template /usr/local/insa/Xilinx.ISE/13.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 diviseur.spl /home/asalazar/Documents/VHDL/compteur8/diviseur.sym 
+vhdtdtfi -prj compteur8 -o /home/asalazar/Documents/VHDL/compteur8/diviseur.vhi -module diviseur -template /usr/local/insa/Xilinx.ISE/13.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work diviseur.vhd 
+vhdtdtfi -lib work diviseur.vhd -prj compteur8 -o diviseur.spl -module diviseur -template /usr/local/insa/Xilinx.ISE/13.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 diviseur.spl /home/asalazar/Documents/VHDL/compteur8/diviseur.sym 
+vhdtdtfi -prj compteur8 -o /home/asalazar/Documents/VHDL/compteur8/diviseur.vhi -module diviseur -template /usr/local/insa/Xilinx.ISE/13.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work diviseur.vhd 

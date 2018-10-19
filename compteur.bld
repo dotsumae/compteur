@@ -1,0 +1,9 @@
+Release 13.4 ngdbuild O.87xd (lin64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Command Line:
+/usr/local/insa/Xilinx.ISE/13.4/ISE_DS/ISE/bin/lin64/unwrapped/ngdbuild
+-intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 compteur.ngc
+compteur.ngd
+
+Reading NGO file "/home/asalazar/Documents/VHDL/compteur8/compteur.ngc" ...

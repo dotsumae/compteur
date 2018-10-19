@@ -1,0 +1,28 @@
+Running: /usr/local/insa/Xilinx.ISE/13.4/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "secureip" -o "/home/asalazar/Documents/VHDL/compteur8/test_cmpt_lent_isim_beh.exe" -prj "/home/asalazar/Documents/VHDL/compteur8/test_cmpt_lent_beh.prj" "work.test_cmpt_lent" 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/asalazar/Documents/VHDL/compteur8/diviseur.vhd" into library work
+Parsing VHDL file "/home/asalazar/Documents/VHDL/compteur8/compteur.vhd" into library work
+WARNING:HDLCompiler:1369 - "/home/asalazar/Documents/VHDL/compteur8/compteur.vhd" Line 22: Possible infinite loop; process does not have a wait statement
+Parsing VHDL file "/home/asalazar/Documents/VHDL/compteur8/compteurlent.vhd" into library work
+Parsing VHDL file "/home/asalazar/Documents/VHDL/compteur8/test_cmpt_lent.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96384 KB
+Fuse CPU Usage: 1040 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity diviseur [diviseur_default]
+Compiling architecture struct of entity compteur [compteur_default]
+Compiling architecture behavioral of entity compteurlent [compteurlent_default]
+Compiling architecture behavior of entity test_cmpt_lent
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 10 VHDL Units
+Built simulation executable /home/asalazar/Documents/VHDL/compteur8/test_cmpt_lent_isim_beh.exe
+Fuse Memory Usage: 1192204 KB
+Fuse CPU Usage: 1180 ms
+GCC CPU Usage: 140 ms

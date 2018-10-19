@@ -1,0 +1,4 @@
+vhdl isim_temp "diviseur.vhd"
+vhdl isim_temp "compteur.vhd"
+vhdl isim_temp "compteurlent.vhd"
+vhdl isim_temp "test_cmpt_lent.vhd"

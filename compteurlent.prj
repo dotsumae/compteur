@@ -1,0 +1,3 @@
+vhdl work "diviseur.vhd"
+vhdl work "compteur.vhd"
+vhdl work "compteurlent.vhd"
